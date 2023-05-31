@@ -17,14 +17,11 @@ body {
 }
 
 .about-me-three {
-    margin: 1%;
-    text-align: center;
+    text-align: justify;
 }
 
 .about-me-four {
-    margin: 5%;
-    display: table;
-    text-align: center;
+    text-align: justify;
 }
 
 .footer {
