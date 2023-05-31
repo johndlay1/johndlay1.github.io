@@ -12,4 +12,21 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    font-size: 90%;
+    text-align: center;
+}
+
+.about-me-three {
+    margin: 1%;
+    text-align: center;
+}
+
+.about-me-four {
+    margin: 5%;
+    display: table;
+    text-align: center;
+}
+
+.footer {
+    font-size: x-small
 }
