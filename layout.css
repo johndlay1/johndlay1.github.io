@@ -16,14 +16,32 @@ body {
     text-align: center;
 }
 
-.about-me-three {
-    text-align: justify;
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 50%;
+    justify-content: center;
+    margin-bottom: 2.5em;
+}
+
+p {
+    justify-content: center;
+    
 }
 
 .about-me-four {
-    text-align: justify;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 5fr 5fr 5fr;
+    align-items: center;
+    justify-content: center;
 }
 
-.footer {
+h5 {
+    font-size: smaller;
+    padding-bottom: 100px;
+}
+
+footer {
     font-size: x-small
 }
