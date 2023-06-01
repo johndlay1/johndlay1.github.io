@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="layout.css" />
+  </head>
 
+  <header>
+    <h1>John Lay</h1>
+    <h3>Software Developer</h3>
+    <nav>
+      <p>
+        <img
+          src="https://raw.githubusercontent.com/johndlay1/Portfolio/main/20220305230057_IMG_8958.JPG"
+          alt="bio pic"
+          width="200"
+        />
+      </p>
+    </nav>
+  </header>
+
+  <body>
+    <main>
+        <div class="about-me">
+          <div class="about-me-one">
+            <h3>About Me</h3>
+      <div class="about-me">
+            <p>Hey I'm John. I'm currently enrolled in a full-stack Java software development boot camp through WeCanCodeIT. I'm eager and excited to learn all that I can. I come from a background in policing and security which have helped me develop analytical and problem solving skills.</p>
+            <h3><p>Contact Me</p></h3>
+          </div>
+          </div>
+          <div class="container">
+            <section class="grid-item grid-item-2"><a href="mailto:johndlay1@gmail.com">Email</a></section>
+            <section class="grid-item grid-item-3"><a href="https://www.linkedin.com/in/layjohn">LinkedIn</a></section>
+            <section class="grid-item grid-item-4"><a href="www.johndlay1.github.io">GitHub</a></section>
+          </div>
+          <p><h3>Skills</h3></p>
+          <div class="about-me-four">
+<section class="grid-item grid-item-5"><ul>Problem solving</ul></section>
+<section class="grid-item grid-item-6"><ul>Analytical thinking</ul></section>
+<section class="grid-item grid-item-7"><ul>Communication</ul></section>
+<section class="grid-item grid-item-8"><ul>Team player</ul></section>
+</div>
+    </main>
+  </body>
+  <section>
+    <h4>Projects</h4>
+    <h5><p>Check back often. My projects will be available as soon as they're completed.</p></h5>
+  </section>
+  <footer>
+    <p>Copyright 2023 by John Lay. All rights reserved.</p>
+  </footer>
+</html>
